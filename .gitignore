@@ -1,0 +1,29 @@
+# Frontend - Angular
+Frontend/node_modules
+Frontend/dist
+Frontend/.env
+Frontend/.env.*
+Frontend/*.log
+
+# Backend - .NET 6 Web API
+Backend/bin/
+Backend/obj/
+Backend/.vs/
+Backend/*.db
+Backend/*.sqlite
+Backend/*.sln.ide
+
+# Visual Studio Code
+.vscode/
+
+# Package Files
+*.nupkg
+*.pup
+*.tar.gz
+*.tar.bz2
+*.zip
+*.gz
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
